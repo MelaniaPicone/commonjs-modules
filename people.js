@@ -1,8 +1,6 @@
-const fullName = require("./module/names.js");
-console.log(fullName);
+const getFullName = require("./module/names.js");
 
 const getHobbies = require("./module/hobbies.js");
-console.log(getHobbies);
 
 const getInfo = () => {
 return {

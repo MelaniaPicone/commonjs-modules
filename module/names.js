@@ -1,6 +1,6 @@
 
 
-const fullName = (firstName, lastName) => (
+const getfullName = (firstName, lastName) => (
 {firstName, lastName} );
 
-module.exports = fullName; 
+module.exports = getfullName; 
