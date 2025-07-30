@@ -7,7 +7,7 @@ console.log(getHobbies);
 const getInfo = () => {
 return {
 fullName: getFullName('Melania'),
-hobbies: getHobbies('Videogames', 'Film', 'Serie Tv'),
+hobbies: getHobbies('Videogames', 'Film', 'Serie Tv')
 }
 }
 
