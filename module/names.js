@@ -1,6 +1,8 @@
-const fullName = {
-  firstName: "Melania",
-  lastName: "Picone"
-}
 
-module.exports = fullName;
+
+const fullName = (firstName, lastName) => (
+{firstName, lastName}
+);
+
+
+module.exports = fullName; 
